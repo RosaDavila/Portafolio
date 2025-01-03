@@ -16,7 +16,7 @@
 - *UdeG Space - Project Mars Rover*: Equipment Servicing Mission as Control and Vision Enginner.
 
 ## 📄 Download My CV
-[Download CV (PDF)](link-to-cv.pdf)
+[Download CV (PDF)](CV_RosaDávila.pdf)
 
 ## 📬 Contact Me
 - **Email**: [rosa_davila_0108@hotmail.com]
