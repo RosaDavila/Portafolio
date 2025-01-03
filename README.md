@@ -8,15 +8,17 @@
 ## 🛠️ Skills and Tools
 - **Programming Languages**: Python, C, C++, MATLAB
 - **Frameworks**:  ROS
-- **Soft Skills**: Teamwork, Communication, Proactive
+- **Software**:  PROTEUS, Arduino, CoppeliaSim
+- **Knowledge about**: Robotics vision, Artificial Neuronal Networks, Linear and Nonlinear Control, Digital Electronics  
+- **Soft Skills**: Teamwork, Communication, Proactive, Autodidactic, Responsible
 
 ## 🚀 Projects
-
+- *UdeG Space - Project Mars Rover*: Equipment Servicing Mission as Control and Vision Enginner.
 
 ## 📄 Download My CV
 [Download CV (PDF)](link-to-cv.pdf)
 
 ## 📬 Contact Me
 - **Email**: [rosa_davila_0108@hotmail.com]
-- **LinkedIn**: [Your LinkedIn Profile]
+- **LinkedIn**: [www.linkedin.com/in/rosa-del-carmen-dávila-meza-a37442342]
   
