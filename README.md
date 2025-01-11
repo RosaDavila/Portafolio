@@ -21,5 +21,4 @@
 
 ## 📬 Contact Me
 - **Email**: [rosa_davila_0108@hotmail.com]
-- **LinkedIn**: [www.linkedin.com/in/rosa-del-carmen-dávila-meza-a37442342]
-  
+- **LinkedIn**: [www.linkedin.com/in/rosa-dávila-robotics-engineer]
